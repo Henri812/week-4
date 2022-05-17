@@ -1,0 +1,15 @@
+/Users/jaagupvaar/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/bin/Debug/net5.0/GuessingGameInfinite.deps.json
+/Users/jaagupvaar/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/bin/Debug/net5.0/GuessingGameInfinite.runtimeconfig.json
+/Users/jaagupvaar/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/bin/Debug/net5.0/GuessingGameInfinite.runtimeconfig.dev.json
+/Users/jaagupvaar/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/bin/Debug/net5.0/GuessingGameInfinite.dll
+/Users/jaagupvaar/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/bin/Debug/net5.0/ref/GuessingGameInfinite.dll
+/Users/jaagupvaar/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/bin/Debug/net5.0/GuessingGameInfinite.pdb
+/Users/jaagupvaar/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/GuessingGameInfinite.csproj.AssemblyReference.cache
+/Users/jaagupvaar/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/GuessingGameInfinite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaagupvaar/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/GuessingGameInfinite.AssemblyInfoInputs.cache
+/Users/jaagupvaar/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/GuessingGameInfinite.AssemblyInfo.cs
+/Users/jaagupvaar/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/GuessingGameInfinite.csproj.CoreCompileInputs.cache
+/Users/jaagupvaar/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/GuessingGameInfinite.dll
+/Users/jaagupvaar/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/ref/GuessingGameInfinite.dll
+/Users/jaagupvaar/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/GuessingGameInfinite.pdb
+/Users/jaagupvaar/Projects/LoopsAndRandomNumbers/GuessingGameInfinite/obj/Debug/net5.0/GuessingGameInfinite.genruntimeconfig.cache

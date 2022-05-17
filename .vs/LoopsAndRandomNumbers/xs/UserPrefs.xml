@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{CFD5EBD3-7618-42AB-8BFB-37FB235A1508}|Default">
+  <MonoDevelop.Ide.ItemProperties.LoopsAndRandomNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoopsAndRandomNumbers/Program.cs">
+    <Files>
+      <File FileName="LoopsAndRandomNumbers/Program.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LoopsAndRandomNumbers" expanded="True">
+            <Node name="GuessingGameInfinite" expanded="True" />
+            <Node name="GuessingGameThreeTries" expanded="True" />
+            <Node name="LoopsAndRandomNumbers" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="PinInfiniteLoop" expanded="True" />
+            <Node name="RandomNumber" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PinInfiniteLoop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GuessingGameInfinite PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GuessingGameThreeTries PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RandomNumber PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,7 @@
+C:\Users\Kasutja\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\LoopsAndRandomNumbers.exe.config
+C:\Users\Kasutja\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\LoopsAndRandomNumbers.exe
+C:\Users\Kasutja\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\LoopsAndRandomNumbers.pdb
+C:\Users\Kasutja\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\LoopsAndRandomNumbers.csproj.AssemblyReference.cache
+C:\Users\Kasutja\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\LoopsAndRandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Kasutja\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\LoopsAndRandomNumbers.exe
+C:\Users\Kasutja\source\repos\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\LoopsAndRandomNumbers.pdb

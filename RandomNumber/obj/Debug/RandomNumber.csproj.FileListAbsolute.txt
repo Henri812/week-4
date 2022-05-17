@@ -1,0 +1,1 @@
+C:\Users\Kasutja\source\repos\LoopsAndRandomNumbers\RandomNumber\obj\Debug\RandomNumber.csproj.CoreCompileInputs.cache
